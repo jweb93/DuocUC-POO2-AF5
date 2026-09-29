@@ -84,7 +84,7 @@ git clone https://github.com/jweb93/DuocUC-POO2-AF5.git
 ---
 
 **Repositorio GitHub:** https://github.com/jweb93/DuocUC-POO2-AF5
-**Fecha de entrega:** \[21/09/2026]
+**Fecha de entrega:** \[28/09/2026]
 
 ---
 

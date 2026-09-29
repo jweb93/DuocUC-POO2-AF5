@@ -33,7 +33,6 @@ métodos getter/setter) y mantiene documentación de código usando Javadocs.
 docs
 └── index.html
 src
-├── README.md
 ├── main
 │   ├── java
 │   │   ├── Main.java
